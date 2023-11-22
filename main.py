@@ -2,8 +2,6 @@ import asyncio
 from aiogram import Dispatcher
 from BotToken import bot
 
-#хуй
-
 async def main():
     dp = Dispatcher()
 
