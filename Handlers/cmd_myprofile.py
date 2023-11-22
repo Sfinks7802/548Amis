@@ -9,5 +9,5 @@ router = Router()
 @router.message(Command('myprofile'))
 async def cmd_myprofile(message: Message):
     await message.answer(
-        'chlen'
+        'popa'
     )
